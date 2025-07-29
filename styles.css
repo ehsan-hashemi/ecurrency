@@ -21,6 +21,10 @@ p {
     margin-top: -40px;
 }
 
+h1, p {
+    color: white;
+}
+
 .arz {
     margin-top: 20px;
     margin-left: 10px;
