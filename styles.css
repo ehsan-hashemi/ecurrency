@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Vazir";
+    src: url("https://sgtmarket.ir/Vazir-Regular.ttf");
+}
+
+body {
+    background-color: blue;
+    font-family: "Vazir";
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: -5px;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    margin-top: -40px;
+}
+
+.arz {
+    margin-top: 20px;
+}
